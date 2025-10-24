@@ -1,0 +1,11 @@
+#Python_bool
+age=17
+x="100.40"
+#print(type(x))
+a=5+10j
+#print(type(a))
+y=False
+#print(type(y))
+#print(10<5)
+x=bool(-100)
+print(x)
